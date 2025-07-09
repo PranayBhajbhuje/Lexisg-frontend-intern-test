@@ -36,7 +36,7 @@ This project is a frontend assignment for Lexi — a minimal legal assistant int
 
 ##  Screenshots
 
-[Question input panel](./screenshots/question-panel.png)
+[Question input panel](Screenshot 2025-07-09 032931.png)
 
 [Answer and citation panel](./screenshots/answer-panel.png)
 
